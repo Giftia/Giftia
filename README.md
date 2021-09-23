@@ -1,8 +1,3 @@
-# [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giftia&show_icons=true&include_all_commits=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giftia&layout=compact" />
-</a>
-<img src="https://wakatime.com/share/@f99347b4-b512-4148-ad75-ec1d4a1c3712/3f9b9245-02bc-4ba5-af2d-c4538cfb8f09.png" />
+# [![](https://img.shields.io/badge/🇨🇳%20Live%20In-💖%20China-e60000?style=flat-square)]() [![](https://img.shields.io/badge/🤣%20Language-汉语、吴语、English、にほんご-pink?style=flat-square)]() [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code)]() [![](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat-square&logo=Windows)]() [![](https://img.shields.io/badge/Favour-JavaScript-339933?style=flat-square&logo=Node.js)]()
+<img src="https://github-readme-stats.vercel.app/api?username=Giftia&show_icons=true&include_all_commits=true" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=giftia" />
+<!-- <img src="https://wakatime.com/share/@f99347b4-b512-4148-ad75-ec1d4a1c3712/3f9b9245-02bc-4ba5-af2d-c4538cfb8f09.png" /> -->

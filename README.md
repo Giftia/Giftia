@@ -24,4 +24,5 @@
 [![](https://img.shields.io/badge/Favour-JavaScript-339933?style=flat-square&logo=Node.js)]()
 [![](https://img.shields.io/badge/Work_With-TypeScript-337ab7?style=flat-square&logo=TypeScript)]()
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=Giftia&count_private=true&show_icons=true&locale=cn&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giftia" />

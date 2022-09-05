@@ -1,7 +1,8 @@
 <img align='right' src='https://i.loli.net/2021/08/25/sILl6XREJMDPAmt.png' width='410px' alt="stand">
 
 # 你们看见小夜了吗？
-## 她没有走丢，因为她非常可爱！想给大家看看
+## 她没有走丢，也没有怎么样
+## 因为她非常可爱！想给大家看看
 ```yaml
 - 音游爱好者
   - 舞立方: 主玩

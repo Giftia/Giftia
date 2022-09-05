@@ -1,8 +1,8 @@
-<img align='right' src='https://i.loli.net/2021/08/25/sILl6XREJMDPAmt.png' width='410px' alt="stand">
+<img align='right' src='https://i.loli.net/2021/08/25/sILl6XREJMDPAmt.png' width='410px' alt="stand" />
 
 # 你们看见小夜了吗？
 ## 她没有走丢，也没有怎么样
-## 因为她非常可爱！想给大家看看
+## 因为她非常可爱！想给大家看看→💦💨
 ```yaml
 - 音游爱好者
   - 舞立方: 主玩
@@ -28,5 +28,5 @@
 [![](https://img.shields.io/badge/Favour-JavaScript-339933?style=flat-square&logo=Node.js)]()
 [![](https://img.shields.io/badge/Work_With-TypeScript-337ab7?style=flat-square&logo=TypeScript)]()
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Giftia&count_private=true&show_icons=true&locale=cn&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=giftia" />
+<img src="https://github-readme-stats.vercel.app/api?username=Giftia&count_private=true&show_icons=true&locale=cn&include_all_commits=true" width='410px' />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=giftia" width='410px' />
